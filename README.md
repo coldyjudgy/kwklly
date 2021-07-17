@@ -5,9 +5,9 @@
 
 ## 🌱 WHAT I LOVE
 - making tons of repos: I swear I'm a maximalist only in programming 😂
-- peeking out new protocols: ``Flow`` ``Near`` ``The Graph``
-- new languages: ``Cadence`` ``Rust`` ``Typescript`` ``Python``
-- being myself: ``baseball⚾️`` ``sailing⛵️`` ``photography📸`` ``essays📚``
+- peeking out new protocols: [``Flow``](https://github.com/onflow/flow) [``Near``](https://github.com/near/core-contracts) [``The Graph``](https://github.com/graphprotocol/graph-node)
+- new languages & frameworks: <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> 	<img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> 	<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+- being myself: ``baseball_fan⚾️`` ``sailor⛵️`` ``photographer📷`` ``writer📚``
 
 
 ## 🔗 WORKING ON
