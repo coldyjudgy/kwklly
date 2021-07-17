@@ -4,17 +4,17 @@
 - currently doing an internship as a blockchain-dev in Seoul 🇰🇷
 
 ## 🌱 WHAT I LOVE
+- making tons of repos: I swear I'm a maximalist only in programming 😂
 - peeking out new protocols: ``Flow`` ``Near`` ``The Graph``
-- making tons of repos 
 - new languages: ``Cadence`` ``Rust`` ``Typescript`` ``Python``
-- being myself: ``sailing`` ``photography``
+- being myself: ``baseball⚾️`` ``sailing⛵️`` ``photography📸`` ``essays📚``
 
 
 ## 🔗 WORKING ON
 - Blockchain key management system, [@dsrv/kms](https://www.npmjs.com/package/@dsrv/kms)
 - Pixel-based music NFT project, [Pixori](https://github.com/BEYOND-Ewha-Yonsei)
 - Smart contract language, [Cadence](https://github.com/onflow/cadence)
-- Rust ← ✨ just started!
+- Rust ← ✨ just started !
 
 
 <!--
