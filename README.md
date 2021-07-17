@@ -1,6 +1,6 @@
 ## 🥝 HI, I'M KWKLLY
 - I'm majoring in ``Mechanical & Biomedical Engineering``
-- originally interested in medical AI → recently ``blockchain`` !
+- originally interested in medical AI → recently ``Blockchain`` !
 - currently doing an internship as a blockchain-dev in Seoul 🇰🇷
 
 ## 🌱 WHAT I LOVE
