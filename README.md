@@ -1,4 +1,21 @@
-### Hi there 👋
+## 🥝 HI, I'M KWKLLY
+- I'm majoring in ``Mechanical & Biomedical Engineering``
+- originally interested in medical AI → recently ``blockchain`` !
+- currently doing an internship as a blockchain-dev in Seoul 🇰🇷
+
+## 🌱 WHAT I LOVE
+- peeking out new protocols: ``Flow`` ``Near`` ``The Graph``
+- making tons of repos 
+- new languages: ``Cadence`` ``Rust`` ``Typescript`` ``Python``
+- being myself: ``sailing`` ``photography``
+
+
+## 🔗 WORKING ON
+- Blockchain key management system, [@dsrv/kms](https://www.npmjs.com/package/@dsrv/kms)
+- Pixel-based music NFT project, [Pixori](https://github.com/BEYOND-Ewha-Yonsei)
+- Smart contract language, [Cadence](https://github.com/onflow/cadence)
+- Rust ← ✨ just started!
+
 
 <!--
 **kwklly/kwklly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
